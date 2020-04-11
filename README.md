@@ -4,4 +4,4 @@ Hello, world!
 
 My cool script
 
-Crazt idea new branch ftw!!!
+Crazy idea new branch ftw!!!
